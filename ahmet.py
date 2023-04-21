@@ -8,7 +8,7 @@ import json
 import os
 import sqlite3
 
-pName = 'xControl'
+pName = 'xControlaaaaa
 pVersion = '1.9.1'
 pUrl = 'https://raw.githubusercontent.com/JellyBitz/phBot-xPlugins/master/xControl.py'
 
